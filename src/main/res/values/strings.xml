@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">a2021_02_19a</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Countries</string>
+    <string name="title_countries">Countries</string>
+</resources>
